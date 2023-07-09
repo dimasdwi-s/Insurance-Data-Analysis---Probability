@@ -12,5 +12,5 @@ Dataset ini berisi informasi tentang tagihan asuransi kesehatan untuk individu, 
 
 Dalam analisis ini terdapat analisis deskriptif statistik, analisis variabel diskrit, analisis variabel kontinu, analisis korelasi variabel, dan pengujian hipotesis.
 
-Untuk report yang lebih lengkap kunjungi :
+Untuk report yang lebih lengkap kunjungi : https://medium.com/@s.dimasdwi/introduction-4e464e53429e
 
